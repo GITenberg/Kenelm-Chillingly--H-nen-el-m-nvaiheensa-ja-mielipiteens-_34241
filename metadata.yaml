@@ -1,0 +1,37 @@
+_repo: Kenelm-Chillingly--H-nen-el-m-nvaiheensa-ja-mielipiteens-_34241
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Favorin, Hanna
+    birthdate: 1845
+    deathdate: 1919
+    gutenberg_agent_id: '36899'
+    url: http://www.gutenberg.org/2009/agents/36899
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lytton, Edward Bulwer Lytton, Baron
+    aliases:
+    - Bulwer-Lytton, Edward George Earle Lytton, 1st Baron
+    - Bulwer, Edward Lytton
+    birthdate: 1803
+    deathdate: 1873
+    gutenberg_agent_id: '761'
+    url: http://www.gutenberg.org/2009/agents/761
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Bulwer-Lytton,_1st_Baron_Lytton
+description: ''
+gutenberg_issued: '2010-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34241'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- Translations into Finnish'
+- !lcc 'PR'
+title: 'Kenelm Chillingly: Hänen elämänvaiheensa ja mielipiteensä'
+url: http://www.gutenberg.org/ebooks/34241
